@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "ankit2005/node-todo-app:tagname"
+    image: "ankit2005/node-todo-app:latest"
     ports:
       - "8000:8000"
